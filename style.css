@@ -1,0 +1,15 @@
+header {
+    background-color: #514e5c;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 40% ;
+    padding: 1% ;
+    
+}
+body{
+    background-color: #434147;
+}
